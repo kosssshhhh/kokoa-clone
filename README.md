@@ -1,3 +1,3 @@
 # Kokoa Clone 2021 UPDATE
 
-CSS is so beautiful~!
+HTML and CSS are so much fun!
